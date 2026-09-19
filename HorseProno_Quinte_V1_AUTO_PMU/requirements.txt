@@ -1,5 +1,0 @@
-streamlit
-numpy
-pandas
-requests
-supabase==2.31.0
